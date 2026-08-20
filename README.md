@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains the dataset, statistical analysis workflow, and machine learning models for the geoscientific research study evaluating the intrinsic geochemical, mineralogical, and geomechanical controls driving severe gully erosion in the Anambra Basin, Southeastern Nigeria.
+This repository contains the dataset, statistical analysis workflow, and machine learning models for the geoscientific research study evaluating the intrinsic geochemical, mineralogical, and geomechanical controls driving severe gully erosion in the Niger Delta Basin, Southeastern Nigeria.
 
 By contrasting baseline control terrains in the Imo Shale Formation (**Awka**) with active gully corridors in the Nanka Sands Formation (**Idemili**), this study establishes that gully vulnerability is fundamentally governed by a geochemical trade-off between unbonded quartzic framework grains and cohesive clay-sesquioxide binders ($\text{Fe}_2\text{O}_3$, $\text{Al}_2\text{O}_3$, $\text{MgO}$).
 
