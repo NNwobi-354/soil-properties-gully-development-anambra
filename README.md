@@ -1,4 +1,4 @@
-# Quantitative Geochemical and Geotechnical Assessment of Gully Erosion Susceptibility in the Anambra Basin, Southeastern Nigeria
+# Quantitative Geochemical and Geotechnical Assessment of Gully Erosion Susceptibility in the Niger Delta Basin, Southeastern Nigeria
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NNwobi-354/soil-properties-gully-development-anambra/blob/main/Statistical_Modelling_Soil_Properties_Gully_Development_Anambra.ipynb)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
